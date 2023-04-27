@@ -1,6 +1,6 @@
 module github.com/tianon/gosu
 
-go 1.18
+go 1.20
 
 require github.com/opencontainers/runc v1.1.0
 
